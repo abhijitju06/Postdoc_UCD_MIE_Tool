@@ -1,0 +1,3 @@
+GO:0043129	surfactant homeostasis	Napsa	Rcn3	Lpcat1	Sftpd	Vegfa	Epas1	Fgf7	Ctsh	Mbl1	Abca12	Pla2g4a	Adgrf5	Erbb4
+REAC:R-MMU-5683826	Surfactant metabolism	Napsa	Gata6	Adora2b	Ccdc59	Adora2a	Sftpd	Abca3	Ttf1	Slc34a2	Ctsh	Zdhhc2	Adra2c	Ckap4	Adgrf5	Lmcd1	Csf2ra	Csf2rb	Sftpb
+SBI:S001	Surfactant custom gene set	Sftpc	Abca3	Sftpb	Sftpa1	Sftpd	Sfta2	Napsa	Slc34a2

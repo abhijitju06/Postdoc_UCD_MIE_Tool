@@ -1,0 +1,54 @@
+CORUM:14	BLOC-2 (biogenesis of lysosome-related organelles complex 2)	Hps5	Hps3	Hps6
+CORUM:24	BLOC-1 (biogenesis of lysosome-related organelles complex 1)	Snapin	Bloc1s6	Bloc1s5	Bloc1s2	Dtnbp1	Bloc1s3	Bloc1s4	Bloc1s1
+GO:0001845	phagolysosome assembly	Tmem175	Syt7	Rab14	P2rx7	Coro1a	Myo7a	Rab20	Spg11	Rab7b	Rab39	Rab7	Srpx
+GO:0006622	protein targeting to lysosome	M6pr	Hspa8	Lamp2	Ap4m1	Ap3b1	Zfyve16	Lhcgr	Lars	Hgs	Snx16	Scarb2	Vps4a	Nedd4	Gnptab	Gcc2	Sorl1	Ncoa4	Rab7
+GO:0007040	lysosome organization	Snapin	Naglu	Acp2	Tmem175	Abca1	Hspa8	Lyst	Clvs2	Hexb	Cln5	Laptm4b	Tfeb	Atp6v0c	Syt7	5430427O19Rik	Hexa	Gaa	Mfsd8	Cln8	Rab14	Gba	Chmp5	Hook1	Ppt1	Tmem165	Vps33a	P2rx7	Tmem106b	Coro1a	Cln3	Myo7a	Lamtor1	Tpp1	Rab20	Aktip	Vps35	Mt3	Mbtps1	Cln6	Spg11	Vps18	Grn	Becn1	Gnptab	Lrrk2	Hook3	Clvs1	Ccdc115	Hps4	Fam160a2	Arf1	Tpcn2	Trex1	Tmem199	Hook2	Rab7b	Rab39	Rab7	Srpx	Mfsd8
+GO:0007041	lysosomal transport	Snapin	Psap	M6pr	Vps4b	Tsg101	Rbsn	Hspa8	Lamp2	Vps53	Cacng2	Ap4m1	Ubxn6	Lyst	Vps54	Ap3d1	Cacng4	Ankfy1	Stx8	Vipas39	Kif13a	Ap3b1	Zfyve16	Mgrn1	Rab12	Prkn	Igf2r	Ehd3	Lhcgr	Vps52	Bin1	Npc1	Lars	Vps51	Hgs	Als2	Trak2	Vps39	Vps16	Snx16	Snx27	C9orf72	Chmp5	Vcp	Hook1	Pink1	Scarb2	Vps33a	Tmem106b	Cdx2	Ccdc91	Mtm1	Lamp1	Aktip	Vps35	Ap1g1	Mvb12a	Vps4a	Vps11	Nedd4	Trak1	Vps18	Grn	Gnptab	Dennd3	Hook3	Hgsnat	Atg14	Gcc2	Rilp	Epg5	Vps41	Gprasp1	Pcsk9	Fam160a2	Arf1	Sorl1	Dtx3l	Vamp7	Hook2	Rab7b	Chmp3	Rhob	Ncoa4	Gak	Cacng3	Clec16a	Sort1	Scyl2	Tgfbrap1	Sptbn5	Rab7	Hspa1a	Gm38100	Pcdhga3	Epg5
+GO:0007042	lysosomal lumen acidification	Snapin	Cln5	Atp6v0c	Ppt1	Cln3	Cln6	Grn	Ccdc115	Tmem199
+GO:0016237	lysosomal microautophagy	Rb1cc1	Atg13	Atg7
+GO:0016256	N-glycan processing to lysosome	Gnptab
+GO:0033299	secretion of lysosomal enzymes	Nr1h3	Bloc1s6	M6pr	Nagpa	Gnptab	Bloc1s3	Nr1h2
+GO:0035751	regulation of lysosomal lumen pH	Snapin	Tmem175	Cln5	Atp6v0c	5430427O19Rik	Ppt1	Tmem165	Vps33a	Cln3	Cln6	Grn	Lrrk2	Ccdc115	Tmem199
+GO:0035752	lysosomal lumen pH elevation	Cln3
+GO:0061462	protein localization to lysosome	Kptn	M6pr	Hspa8	Lamp2	Cacng2	Ap4m1	Ap3d1	Rtn4	Rock2	Cacng4	Gga3	Ap3b1	Zfyve16	Lhcgr	Lars	Hgs	Snx16	Scarb2	Vps4a	Nedd4	Szt2	Meak7	Gnptab	Sh3bp4	Cd81	Gcc2	Sorl1	Lamtor4	BC048403	Ncoa4	Cacng3	Rab7	Lamtor5
+GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	Hspa8	Lamp2
+GO:0061763	multivesicular body-lysosome fusion	Chmp5	Chmp3
+GO:0061909	autophagosome-lysosome fusion	Rubcnl
+GO:0090182	regulation of secretion of lysosomal enzymes	Nr1h3	Nr1h2
+GO:0090340	positive regulation of secretion of lysosomal enzymes	Nr1h2
+GO:0090341	negative regulation of secretion of lysosomal enzymes	Nr1h3
+GO:0090385	phagosome-lysosome fusion	Tmem175	Syt7	Rab20	Spg11	Rab7b	Rab39	Rab7
+GO:0090387	phagolysosome assembly involved in apoptotic cell clearance	Rab14	Spg11
+GO:0090389	phagosome-lysosome fusion involved in apoptotic cell clearance	Spg11
+GO:0097212	lysosomal membrane organization	Hspa8	Laptm4b	Mt3	Arf1
+GO:0097213	regulation of lysosomal membrane permeability	Hspa8	Laptm4b	Mt3
+GO:0097214	positive regulation of lysosomal membrane permeability	Hspa8	Mt3
+GO:0150031	regulation of protein localization to lysosome	Rock2	Meak7
+GO:0150032	positive regulation of protein localization to lysosome	Meak7
+GO:0150033	negative regulation of protein localization to lysosome	Rock2
+GO:1903008	organelle disassembly	Mcts1	Hk2	Fbxo7	Golga2	Kif5b	Kif19a	Stx5a	Sqstm1	Mtif3	Dyrk3	Gabarap	Fis1	Cdc37	Cdk1	Vps13d	Vdac1	Mtif2	Srebf1	Hif1a	Vrk1	Gfm2	Bnip3l	Retreg1	Atg3	Dnm1l	Denr	Prkn	Spast	Tmem173	Atg2a	Fundc1	Wdr45b	Gbf1	Rnf41	Rb1cc1	Capn10	Eif2d	Optn	Mrrf	Atg13	Map1lc3a	Gba	Fbxw7	Cisd2	Vcp	Plk3	Pink1	Tomm7	Mfn2	Htt	Spata18	Ppargc1a	Wipi2	Usp30	Gabarapl1	Atg7	Cttn	Hdac6	Fundc2	Map1lc3b	Gabarapl2	Kif9	Atg12	Atg9a	Parl	Becn1	Vps13c	Atg14	Tigar	Atg5	Atg9b	Smurf1	Wdr45	Zfand1	Ambra1	Tex264	Mul1	Atg2b	Tspo	Wipi1	Pelo	Cdkn2a	Atpif1	Gsk3a	Trp53	Htra2	Clec16a	1700034I23Rik	Bnip3	Atg2a	Gm45208
+GO:1905146	lysosomal protein catabolic process	Lamp2	Laptm4b	Vps35	Ldlr	Atp13a2	Lrp1	Ccdc115	Tmem199
+GO:1905165	regulation of lysosomal protein catabolic process	Laptm4b	Vps35	Ldlr	Atp13a2	Lrp1
+GO:1905166	negative regulation of lysosomal protein catabolic process	Laptm4b	Vps35
+GO:1905167	positive regulation of lysosomal protein catabolic process	Ldlr	Lrp1
+GO:1905671	regulation of lysosome organization	Laptm4b	Grn	Becn1	Trex1
+GO:1905672	negative regulation of lysosome organization	Becn1
+GO:1905673	positive regulation of lysosome organization	Grn
+GO:0005764	lysosome	Gm2a	Fasl	Snapin	Acp5	Glmp	Tmem79	Itfg2	Akr1b3	Tcirg1	Uba1	Siae	Bbc3	Acp2	Napsa	Tm9sf1	Borcs8	Tsc2	Epdr1	Apoe	Hck	Ncstn	Dnase2a	Mmd	Cdip1	Psap	Pax2	Pde1c	Mcoln1	Stxbp2	Chmp2b	Sgsh	Man2b1	Insr	Kit	Slc30a4	Ctns	Prss16	Tmbim1	Hap1	Neu1	M6pr	Ctsd	Trpm2	Mpo	Kcnq1	Hyal2	Hyal1	Nprl2	Slc3a2	Spaca7	Mcoln2	Atp6v0d1	Tmem175	Atraid	Galns	Gzmb	Ppt2	Hspa8	Sqstm1	Ctsz	Cd34	Lamp2	Nbr1	Ada	Ctsa	Anxa6	Gabarap	Cd68	Abca5	Tm4sf5	Trip10	Ubxn6	Cyb561	Fuca2	Cd164	Tnfaip3	Psen1	Stx7	Dram1	Srgn	Vps26a	Slc29a3	Slc36a1	Nprl3	Nsg2	Prss57	Laptm4a	Arsg	Ace	Spag9	Tac4	Stx8	Gfap	Galc	Vti1b	Lgmn	Chga	Npc2	Ctsq	Cts7	Cts6	Ctsl	Hexb	Crhbp	Kif2a	Trim23	Anxa11	Ctsb	Cln5	Laptm4b	Ywhaz	Naga	Litaf	Arsa	Sidt1	Klhl22	Slc49a4	App	Ifnar1	Sod1	Aqp2	Slc11a2	Sult1c2	Rab12	Igf2r	Hsp90ab1	Lhcgr	Atp6v0c	Tmem8	Rmc1	Npc1	Lars	Cd74	Pdgfrb	Anxa1	Fth1	Slc15a3	Syt7	Lipa	Ctsw	Capn1	Wdr45b	Got1	Hexa	Fyco1	Abhd6	Gpr143	Cd63	Adam8	Ifitm3	Chid1	Tmem192	Gusb	Gaa	Rptor	March8	Wdr24	Mfsd8	Hgs	Cplx2	Rb1cc1	Slc11a1	Cxcr2	Itm2c	Tmem9	Arl8a	Chit1	Capn2	Tmem63a	Cubn	Rab14	Abca2	Dpp7	Cybrd1	Cat	Lamp5	Snap23	Vps39	Rasgrp1	Sppl2a	Il1b	Vps16	Cst3	Snx16	Map1lc3a	Src	Dram2	Ctso	Gba	Lamtor2	Ctsk	Manba	Dnase2b	Ctbs	Bcl10	Pip4p2	Atp6v0d2	Rragd	C9orf72	Aldob	Nr4a3	Spaar	Laptm5	Tmem59	Rragc	Ppt1	Fuca1	Tspan1	Pqlc2	Rnf19b	Mtor	Man2b2	Nsg1	Slc30a3	Slc35f6	Cckar	Tmem165	Nos1	Abcb9	Naaa	Scarb2	Vps33a	Tmem106b	Plbd2	Ccz1	Pcyox1	Arl8b	Sec13	Oca2	Vps33b	Rab38	Ctsc	Cln3	Lat	Myo7a	Lamtor1	Tpp1	Atp6ap2	Tmem9b	Btk	Gla	Abcd1	Lamp1	Vps36	Aga	Asah1	Vps35	Mt1	Map1lc3b	Rab3a	Pla2g15	Vps4a	Ctrb1	Wdr59	Trim29	Bace1	Vps11	Ldlr	Rab27a	Anxa2	Ctsh	Snx1	Snx14	Dync1li1	Wdr48	Acpp	March3	Pon2	Tpcn1	Ank2	Szt2	Idua	Znrf1	Pik3c3	Neu4	Meak7	Vps18	Plekhm1	Cbl	Cyb561a3	Snx2	Pla2g3	Myo5a	Cd300a	Gns	Grn	Ankrd27	Sidt2	Eva1a	Sppl2b	Neu3	Hpse	Uvrag	Rubcn	Dync1li2	Mlc1	Ids	Pip4p1	Slc2a6	Hyal3	Lrrk2	Ap5m1	March1	Rnf13	H2-Aa	Atp13a2	Clcn7	Pnpla7	Mcoln3	Smpd1	Prf1	Hgsnat	Tmem97	Depdc5	H2-DMb2	Rilp	Ostm1	Tm6sf1	Ctss	Cpq	Siglecf	Atp6v1g1	Mreg	Epg5	Slc26a11	Slc7a5	5330417C22Rik	March9	Milr1	Lat2	Ramp3	Vps41	Lamp3	Stx3	H2-Ob	Nppa	Rragb	Arsb	Ccdc115	Lyn	BC051665	Hps4	Mios	Borcs5	Psapl1	Rab9b	Gimap5	Pcsk9	Znrf4	Tlr7	Borcs6	Tlr9	Wdr81	Cxcr4	Glb1	Tmem150b	Irgm1	Pla2g4f	Cltc	Rnf152	Slc38a9	Bri3	Tpcn2	Dtx3l	Sppl2c	Slc17a5	Pla2g4e	4930486L24Rik	Lamtor4	Mmp13	Tmem150c	Vamp8	Gja1	Tmem199	Vamp7	Treml4	Doc2a	Rab7b	BC048403	Tmem74	Rab39	Ctsj	Kxd1	Gpc3	Ctsr	Tmem150a	Spata31	Ncoa4	Sftpb	Mpz	Ctsll3	Sphk2	Cts8	Bloc1s2	Prtn3	Unc13d	Znrf2	Calcrl	Prcp	Borcs7	Rnf183	Tecpr1	Cst7	Ap5s1	Clec16a	Sort1	Syt11	Slc7a14	Ank3	Cd300ld3	Rraga	Vma21	Lmbrd1	Gm12888	Ggh	Mrgprx2	Plekhf1	Arrdc3	Hps6	Cts3	Fnbp1	Ass1	Gm12887	Gm12886	Rab9	Neu2	Rab7	March2	Seh1l	Slc48a1	Ctsf	Lamtor5	Shkbp1	Bloc1s1	Rnaset2b	Rnaset2a	Tmem150a	Sftpb	Gm49369	Ifi30	Slc30a4	Rab3a	Gm49352	Treml4	Epg5	Mfsd8	Irgm1	Gm49721	Gm49673
+GO:0005765	lysosomal membrane	Snapin	Glmp	Tmem79	Itfg2	Uba1	Acp2	Tm9sf1	Borcs8	Ncstn	Mmd	Cdip1	Mcoln1	Slc30a4	Ctns	Tmbim1	Neu1	M6pr	Ctsd	Trpm2	Nprl2	Slc3a2	Atp6v0d1	Tmem175	Atraid	Hspa8	Lamp2	Ctsa	Anxa6	Cd68	Abca5	Tm4sf5	Ubxn6	Cyb561	Cd164	Psen1	Dram1	Slc29a3	Slc36a1	Nprl3	Laptm4a	Spag9	Stx8	Gfap	Vti1b	Trim23	Cln5	Laptm4b	Litaf	Slc49a4	Slc11a2	Rab12	Igf2r	Hsp90ab1	Tmem8	Rmc1	Npc1	Slc15a3	Syt7	Abhd6	Gpr143	Cd63	Ifitm3	Tmem192	Gaa	March8	Wdr24	Mfsd8	Itm2c	Tmem9	Arl8a	Tmem63a	Cubn	Cybrd1	Lamp5	Vps39	Sppl2a	Vps16	Dram2	Gba	Lamtor2	Pip4p2	Atp6v0d2	Spaar	Laptm5	Tmem59	Tspan1	Pqlc2	Mtor	Slc30a3	Slc35f6	Tmem165	Abcb9	Scarb2	Vps33a	Tmem106b	Ccz1	Arl8b	Sec13	Oca2	Vps33b	Cln3	Myo7a	Lamtor1	Atp6ap2	Tmem9b	Abcd1	Lamp1	Wdr59	Vps11	Anxa2	Snx14	Acpp	Tpcn1	Szt2	Meak7	Vps18	Plekhm1	Cyb561a3	Grn	Sidt2	Eva1a	Sppl2b	Hpse	Pip4p1	Slc2a6	Ap5m1	March1	Rnf13	Atp13a2	Clcn7	Pnpla7	Mcoln3	Hgsnat	Depdc5	H2-DMb2	Rilp	Ostm1	Tm6sf1	Atp6v1g1	Mreg	Slc26a11	Slc7a5	5330417C22Rik	March9	Vps41	Lamp3	Mios	Borcs5	Gimap5	Znrf4	Borcs6	Wdr81	Irgm1	Pla2g4f	Rnf152	Slc38a9	Bri3	Tpcn2	Dtx3l	Sppl2c	Slc17a5	Pla2g4e	Tmem150c	Vamp8	Vamp7	Treml4	BC048403	Tmem74	Kxd1	Sphk2	Bloc1s2	Znrf2	Borcs7	Rnf183	Tecpr1	Ap5s1	Clec16a	Sort1	Slc7a14	Lmbrd1	Hps6	Rab7	March2	Seh1l	Slc48a1	Bloc1s1	Slc30a4	Treml4	Mfsd8	Irgm1
+GO:0005766	primary lysosome	Stxbp2	Mpo	Stx7	Prss57	Hexb	Anxa11	Hexa	Snap23	Nos1	Stx3	Vamp8	Vamp7	Prtn3
+GO:0005767	secondary lysosome	Sqstm1	Lamp2	Crhbp	Fth1	Adam8	Map1lc3a	Lamp1	Map1lc3b	Pik3c3	Lrrk2	Irgm1	Ncoa4	Irgm1
+GO:0032010	phagolysosome	Adam8	Lamp1
+GO:0032419	extrinsic component of lysosome membrane	Rab7
+GO:0036019	endolysosome	Tlr9	Clec16a
+GO:0036020	endolysosome membrane	Clec16a
+GO:0043202	lysosomal lumen	Fasl	Acp2	Epdr1	Neu1	Spaca7	Hspa8	Lamp2	Nsg2	Pdgfrb	Cubn	Gba	Nsg1	Scarb2	Plbd2	Spata31	Rnaset2b	Rnaset2a	Gm49721	Gm49673
+GO:0044754	autolysosome	Sqstm1	Lamp2	Fth1	Map1lc3a	Lamp1	Map1lc3b	Pik3c3	Lrrk2	Irgm1	Ncoa4	Irgm1
+GO:0061474	phagolysosome membrane	Lamp1
+GO:0098574	cytoplasmic side of lysosomal membrane	Cdip1	Gfap	Litaf	Borcs5
+GO:1905103	integral component of lysosomal membrane	Npc1	Spaar	Atp13a2	Slc38a9
+GO:1990836	lysosomal matrix	Hspa8	Lamp2
+HP:0004356	Abnormality of lysosomal metabolism	Dnajc5	Ocrl	Car2	Asah1	Cln6	Gnptab	Clcn7	Tnfrsf11b
+REAC:R-MMU-432720	Lysosome Vesicle Biogenesis	Ap4e1	Ap1m1	Dnase2a	Ap1s1	M6pr	Ap1b1	Hspa8	Ctsz	Arrb1	Ap4m1	Clvs2	Vamp2	Ap4s1	App	Hgs	Sh3gl2	Dnajc6	Ap1s2	Ap1g1	Ap4b1	Dnm2	Chmp2a	Gns	Txndc5	Ap1g2	Clvs1	Cltc	Cltb	Arf1	Ap1s3	Bloc1s1
+REAC:R-MMU-8853383	Lysosomal oligosaccharide catabolism	Man2b1	Man2b2	Man2c1
+KEGG:04142	Lysosome	Gnptab	Psap	Arsg	Slc11a1	Npc1	Smpd1	Ap4e1	Ctns	Manba	Mfsd8	Cltc	Ap3b2	Atp6v0d2	Laptm4a	Acp2	Psapl1	Sort1	Mcoln1	Ctsw	Ctsj	Atp6ap1	Lamp3	Npc2	Gaa	Atp6v1h	Sumf1	Ap1g2	Laptm4b	Ap3m2	Ctsk	Atp6v0a4	Gns	Ppt1	Ctss	Sgsh	Atp6v0a1	Clta	Lamp2	Ap4b1	Naglu	Cln3	Scarb2	Tcirg1	Ctsm	Ap1m1	Dnase2b	Gba	Cd164	Litaf	Lamp1	Galc	Acp5	Gga2	Aga	Ctsh	Ap1m2	Hgsnat	Gga3	Tpp1	Ctso	Ap4s1	Ap1b1	Ctsb	Cltb	Asah1	Laptm5	Lipa	Gm2a	Cln5	Idua	Cd63	Abca2	Ctsf	Igf2r	Gga1	Ap1g1	Ctsd	Gla	Ids	Slc11a2	Fuca1	M6pr	Atp6v0b	Ctsz	Ap1s3	Ctsl	Cd68	Ap3s1	Arsb	Ctsc	Ppt2	Naga	Atp6v0a2	Ap3b1	Ctsg	Hexa	Ap3d1	Hyal1	Man2b1	Hexb	Dnase2a	Entpd4	Entpd4	Ap1s1	Atp6v0c	Gusb	Entpd4b	Abcb9	Nagpa	Pla2g15	Ap3s2	Ap3m1	Slc17a5	Ap1s2	Galns	Lgmn	Arsa	Atp6v0d1	Ctsa	Ctse	Neu1	Glb1	Ap4m1	Napsa	Gnptg
